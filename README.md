@@ -1,2 +1,2 @@
 # RbBackgroundRemover
-This program removes the roblox backgroud template of shirts/pants
+This program removes the roblox background template of shirts/pants
